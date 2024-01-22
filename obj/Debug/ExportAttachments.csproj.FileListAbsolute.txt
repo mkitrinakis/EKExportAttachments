@@ -1,0 +1,12 @@
+C:\Users\mkitrinakis\source\repos\ExportAttachments\ExportAttachments\obj\Debug\ExportAttachments.csproj.AssemblyReference.cache
+C:\Users\mkitrinakis\source\repos\ExportAttachments\ExportAttachments\obj\Debug\ExportAttachments.csproj.CoreCompileInputs.cache
+C:\Users\mkitrinakis\source\repos\ExportAttachments\ExportAttachments\bin\Debug\ExportAttachments.exe.config
+C:\Users\mkitrinakis\source\repos\ExportAttachments\ExportAttachments\bin\Debug\ExportAttachments.exe
+C:\Users\mkitrinakis\source\repos\ExportAttachments\ExportAttachments\bin\Debug\ExportAttachments.pdb
+C:\Users\mkitrinakis\source\repos\ExportAttachments\ExportAttachments\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\mkitrinakis\source\repos\ExportAttachments\ExportAttachments\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\mkitrinakis\source\repos\ExportAttachments\ExportAttachments\bin\Debug\Microsoft.SharePoint.dll
+C:\Users\mkitrinakis\source\repos\ExportAttachments\ExportAttachments\bin\Debug\Microsoft.Web.Administration.dll
+C:\Users\mkitrinakis\source\repos\ExportAttachments\ExportAttachments\obj\Debug\ExportAttachments.csproj.CopyComplete
+C:\Users\mkitrinakis\source\repos\ExportAttachments\ExportAttachments\obj\Debug\ExportAttachments.exe
+C:\Users\mkitrinakis\source\repos\ExportAttachments\ExportAttachments\obj\Debug\ExportAttachments.pdb
